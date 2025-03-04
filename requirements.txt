@@ -1,0 +1,6 @@
+roboflow
+opencv-python
+flask
+python-dotenv
+numpy
+Pillow
